@@ -14,7 +14,6 @@ public:
 	uint8_t PlayButton;
 	uint8_t StopButton;
 	uint8_t EncoderButton;
-	int8_t EncoderState;
 } UIButtonStates;
 
 #endif

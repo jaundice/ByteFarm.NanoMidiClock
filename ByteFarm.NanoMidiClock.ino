@@ -117,7 +117,7 @@ UIButtonStates ReadButtonStates()
 	const UIButtonStates states = {
 		PlayButton.ReadButtonState(),
 		StopButton.ReadButtonState(),
-		EncoderButton.ReadButtonState(), 0 };
+		EncoderButton.ReadButtonState() };
 	return states;
 }
 

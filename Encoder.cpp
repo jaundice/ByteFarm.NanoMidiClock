@@ -13,7 +13,7 @@ void Encoder::Update(uint8_t newValue)
 
 	uint8_t key = (OldValue << 2) | newValue;
 
-	int8_t ret = truth_table[key & 0b111];
+	int8_t ret = truth_table[key & 0b1111];
 
 	OldValue = newValue;
 
