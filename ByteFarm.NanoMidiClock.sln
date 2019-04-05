@@ -7,6 +7,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ByteFarm.NanoMidiClock", "B
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uClock", "..\libraries\uClock\uClock.vcxitems", "{A8AFA4E5-36EB-4EF7-A685-F4354FDCA0FD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SSD1308", "..\libraries\SSD1308\SSD1308.vcxitems", "{FD363D37-1E8A-4A72-BB56-3185BD8434BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_GFX_Library", "..\libraries\Adafruit_GFX_Library\Adafruit_GFX_Library.vcxitems", "{7E2F7A4A-87A7-4A13-9077-7166A06E09E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_SSD1306", "..\libraries\Adafruit_SSD1306\Adafruit_SSD1306.vcxitems", "{EF481F1D-570B-4777-BE26-F7EF4EA45540}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
