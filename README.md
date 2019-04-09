@@ -1,9 +1,11 @@
 # ByteFarm.NanoMidiClock
 Midi Clock Generator running on an arduino Nano
 
-  Buttons to start and stop
-  128x64 OLED screen
-  Quadrature encoder to set BPM
+Buttons to start and stop
+
+128x64 OLED screen
+
+Quadrature encoder to set BPM
 
 All interrupt signal handling
 
